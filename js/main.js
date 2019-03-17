@@ -1,5 +1,7 @@
+console.log("Loaded");
 (function ($) {
-	console.log("Loaded");
+
+
 	"use strict";
 	var nav = $('nav');
   var navHeight = nav.outerHeight();
