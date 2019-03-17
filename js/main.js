@@ -1,4 +1,4 @@
-console.log("Loaded");
+console.log("Thanks for view my code, I am super interested in frontend, for any places which have to improve, please tell me, happy to learn from. ");
 (function ($) {
 
 
