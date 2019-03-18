@@ -3,6 +3,10 @@ body {
   color: #4e4e4e;
 }
 
+.dev-icons {
+  font-size: 50px !important;
+}
+
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
